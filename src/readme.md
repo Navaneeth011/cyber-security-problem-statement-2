@@ -47,3 +47,6 @@ This project aims to strengthen network security by combining rogue Wi-Fi access
      - Sends alerts to the central dashboard for prompt response.
    - **Implementation Screenshots**:
        ![Screenshot 2024-11-09 014219](https://github.com/user-attachments/assets/c49ed4c2-d578-4a69-8715-8dc8121491c0)
+       ![esp32](https://github.com/user-attachments/assets/4df8cc78-2198-451a-aeba-9e24a4a11839)
+
+       
